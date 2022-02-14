@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="0" started-at="2022-01-12T10:45:06 IST" finished-at="2022-01-12T10:45:06 IST">
+    <groups>
+      <group name="Progression">
+        <method signature="GmailTNG.yahooLogin()[pri:1, instance:youtube.GmailTNG@134593bf]" name="yahooLogin" class="youtube.GmailTNG"/>
+      </group> <!-- Progression -->
+      <group name="Regression">
+        <method signature="GmailTNG.yahooLogin()[pri:1, instance:youtube.GmailTNG@134593bf]" name="yahooLogin" class="youtube.GmailTNG"/>
+      </group> <!-- Regression -->
+    </groups>
+  </suite> <!-- TestSuite -->
+</testng-results>
